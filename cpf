@@ -1,0 +1,22 @@
+[
+    {
+        "cpf": "12081845474",
+        "nome": "Marina Rosa Ribeiro do Carmo",
+        "data_nascimento": "29/07/1999"
+    },
+    {
+        "cpf": "73311146468",
+        "nome": "José Francisco Do Carmo Neto",
+        "data_nascimento": "30/06/1975"
+    },
+    {
+        "cpf": "02758071428",
+        "nome": "Angela Pereira Ribeiro do Carmo",
+        "data_nascimento": "06/06/1974"
+    },
+    {
+        "cpf": "70279798458",
+        "nome": "Jonas Nunes da Silva",
+        "data_nascimento": "12/09/1998"
+    }
+]
