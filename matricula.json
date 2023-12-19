@@ -1,0 +1,26 @@
+[
+    {
+        "matricula": "2907",
+        "nome": "Marina Rosa Ribeiro do Carmo",
+        "cpf": "12081845474",
+        "data_nascimento": "29/07/1999"
+    },
+    {
+        "matricula": "3006",
+        "nome": "José Francisco Do Carmo Neto",
+        "cpf": "73311146468",
+        "data_nascimento": "30/06/1975"
+    },
+    {
+        "matricula": "0606",
+        "nome": "Angela Pereira Ribeiro do Carmo",
+        "cpf": "02758071428",
+        "data_nascimento": "06/06/1974"
+    },
+    {
+        "matricula": "1209",
+        "nome": "Jonas Nunes da Silva",
+        "cpf": "70279798458",
+        "data_nascimento": "12/09/1998"
+    }
+]
